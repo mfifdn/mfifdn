@@ -2,13 +2,13 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👨🏻•💻 Tentang Saya </h3>
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Menjelajahi teknologi baru dan mengembangkan solusi perangkat lunak dan peretasan cepat.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering .
+- 🎓 &nbsp; Mahasiswa Universitas Islam Majapahit.
 
 - 🌱 &nbsp; Learning about coding.
 
@@ -51,7 +51,7 @@
 
 <br/><br/>
 
-[
+
 
 <hr>
 
