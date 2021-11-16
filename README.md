@@ -59,3 +59,32 @@
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
 <br/>
 ---
+
+
+<h1 align="center"><b> 📈My Github Stats📊 </b></h1>
+
+<div align="center">
+
+<a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilutpolkashyap&layout=compact&langs_count=10&show_icons=true&theme=algolia" width="34%"/>
+</a>
+<a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
+  <img align="center" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Nilutpol's GitHub Stats" width="20%"/>
+</a>
+<a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nilutpolkashyap&show_icons=true&theme=algolia" alt="Nilutpol's GitHub Stats" width="45%"/>
+</a>
+<a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=nilutpolkashyap&theme=xcode" alt="Nilutpol's GitHub Stats" width="85%"/>
+</a>
+<a href="https://github.com/nilutpolkashyap/nilutpolkashyap">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nilutpolkashyap&theme=dark" alt="Nilutpol's GitHub Stats" width="60%"/>
+</a>
+  
+  
+<!-- [![Nilutpol's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nilutpolkashyap&theme=xcode)](https://git.io/nilutpolkashyap) -->
+  
+</div>
+
+______________________________________________________________________________________________________
+
